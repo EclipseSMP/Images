@@ -1,4 +1,5 @@
 # Images
+ghcr.io/eclipsesmp/images:malware
 ghcr.io/eclipsesmp/images:java-jre8
 ghcr.io/eclipsesmp/images:java-jre11
 ghcr.io/eclipsesmp/images:java-jre16
