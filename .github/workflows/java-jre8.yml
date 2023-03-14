@@ -33,4 +33,4 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            ghcr.io/eclipsesmp/images:java-jre8
+            ghcr.io/EclipseSMP/images:java-jre8
