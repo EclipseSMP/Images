@@ -1,6 +1,6 @@
 # ----------------------------------
 # EclipseSMP JRE 8
-# Image: ghcr.io/eclipsesmp/images:java-jre8
+# Image: ghcr.io/EclipseSMP/images:java-jre8
 # ----------------------------------
 
 FROM        openjdk:8-slim-bullseye
